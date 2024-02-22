@@ -1,0 +1,15 @@
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\bin\Debug\net8.0\quiz2.exe
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\bin\Debug\net8.0\quiz2.deps.json
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\bin\Debug\net8.0\quiz2.runtimeconfig.json
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\bin\Debug\net8.0\quiz2.dll
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\bin\Debug\net8.0\quiz2.pdb
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.AssemblyInfoInputs.cache
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.AssemblyInfo.cs
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.csproj.CoreCompileInputs.cache
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.sourcelink.json
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.dll
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\refint\quiz2.dll
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.pdb
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\quiz2.genruntimeconfig.cache
+D:\Assignment-quiz2\Earl-Malingin\quiz2\quiz2\obj\Debug\net8.0\ref\quiz2.dll
